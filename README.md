@@ -1,2 +1,2 @@
 # ExpenseTracker
-Created an expense tracker using react
+Created an expense tracker using react.
